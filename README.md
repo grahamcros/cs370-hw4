@@ -9,4 +9,4 @@ Uses produce() to add random numbers (doubles) to the buffer. <br />
 <b>Consumer.java</b> <br />
 Uses consume() to consume items from the buffer and holds their running total
 
-Running the program: The Main.java file is the main file to be run. Doing "java ProducerConsumer" runs all related files.
+Running the program: The ProducerConsumer.java file is the main file to be run. Doing "java ProducerConsumer" runs all related files.
